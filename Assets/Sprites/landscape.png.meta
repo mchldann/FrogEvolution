@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: c88b0f01139f2894c8a29fc26afb2ddc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: landscape
+    21300002: landscape_0
+    21300004: landscape_1
+    21300006: landscape_2
+    21300008: landscape_3
+    21300010: landscape_4
+    21300012: landscape_5
+    21300014: landscape_6
+    21300016: landscape_7
+    21300018: landscape_8
+    21300020: landscape_9
+    21300022: landscape_10
+    21300024: landscape_11
+    21300026: landscape_12
+    21300028: landscape_13
+    21300030: landscape_14
+    21300032: landscape_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: landscape_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 351
+        width: 122
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 367
+        width: 198
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 339
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_3
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 334
+        width: 135
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_4
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 337
+        width: 136
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 237
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 242
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 35
+        width: 213
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 27
+        width: 135
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 211
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 46
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_11
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 190
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_12
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 122
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 56
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 363
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_15
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 240
+        width: 169
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

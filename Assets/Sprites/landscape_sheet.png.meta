@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5103778924c6cf54e970cca0deda7292
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: landscape_sheet_0
+    21300002: landscape_sheet_1
+    21300004: landscape_sheet_2
+    21300006: landscape_sheet_3
+    21300008: landscape_sheet_4
+    21300010: landscape_sheet_5
+    21300012: landscape_sheet_6
+    21300014: landscape_sheet_7
+    21300016: landscape_sheet_8
+    21300018: landscape_sheet_9
+    21300020: landscape_sheet_10
+    21300022: landscape_sheet_11
+    21300024: landscape_sheet_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: landscape_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 333
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 357
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 329
+        width: 198
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 416
+        width: 136
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 244
+        width: 134
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 244
+        width: 135
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 237
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 28
+        width: 217
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 202
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 46
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 166
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 152
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landscape_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 46
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
