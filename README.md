@@ -1,4 +1,4 @@
-# FrogEvolution
+# Frog Evolution
 
 Games and Artificial Intelligence Techniques
 Assignment 2
@@ -7,18 +7,10 @@ Students:
 Michael Dann (s3365362)
 Jayden Ivanovic (s3331571)
 
-
-========
- Report
-========
-
+# Report
 Please refer to the attached file "Report.pdf" for our write up of the game.
 
-
-==================
- Running the game
-==================
-
+# Running the game
 To run the new game that we created for the second assignment, please launch
 Unity from the scene "MenuA2".
 
@@ -54,11 +46,7 @@ project's file size down.)
 
 To train from scratch, clear out the "Load Path" parameter on the "GAController" GameObject.
 
-
-==================
- Known issues
-==================
-
+# Known issue
 Since the main focus of this assignment was machine learning, we did not spend
 as much time polishing the actual game as we did for assignment 1. As such,
 there are still a few issues / bugs we haven't fixed:
@@ -68,11 +56,7 @@ there are still a few issues / bugs we haven't fixed:
 - The enemy frog occasionally gets trapped in a corner by both snakes.
 - The frog never dies
 
-
-================
- Main .cs files
-================
-
+# Main scripts
 There are a LOT of script components in our project, and many of them are not
 particularly relevant to assignment 2. The most important scripts for this
 assignment are as follows -
