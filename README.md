@@ -29,11 +29,7 @@ Flies will get points when hovering around the trees with flowering/apples
 (white/red trees). Return your flies to the tree in the center in order to
 return these points. For every 100 points you return a new fly will be spawned.
 
-
-===============
- Training mode
-===============
-
+# Training mode
 To see our setup for training the enemy frog, please open the "Training" scene.
 
 Since training the frogs takes quite some time, we have included some
@@ -46,7 +42,7 @@ project's file size down.)
 
 To train from scratch, clear out the "Load Path" parameter on the "GAController" GameObject.
 
-# Known issue
+# Known issues
 Since the main focus of this assignment was machine learning, we did not spend
 as much time polishing the actual game as we did for assignment 1. As such,
 there are still a few issues / bugs we haven't fixed:
