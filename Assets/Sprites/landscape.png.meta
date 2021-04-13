@@ -1,50 +1,94 @@
 fileFormatVersion: 2
 guid: c88b0f01139f2894c8a29fc26afb2ddc
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: landscape
-    21300002: landscape_0
-    21300004: landscape_1
-    21300006: landscape_2
-    21300008: landscape_3
-    21300010: landscape_4
-    21300012: landscape_5
-    21300014: landscape_6
-    21300016: landscape_7
-    21300018: landscape_8
-    21300020: landscape_9
-    21300022: landscape_10
-    21300024: landscape_11
-    21300026: landscape_12
-    21300028: landscape_13
-    21300030: landscape_14
-    21300032: landscape_15
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: landscape
+  - first:
+      213: 21300002
+    second: landscape_0
+  - first:
+      213: 21300004
+    second: landscape_1
+  - first:
+      213: 21300006
+    second: landscape_2
+  - first:
+      213: 21300008
+    second: landscape_3
+  - first:
+      213: 21300010
+    second: landscape_4
+  - first:
+      213: 21300012
+    second: landscape_5
+  - first:
+      213: 21300014
+    second: landscape_6
+  - first:
+      213: 21300016
+    second: landscape_7
+  - first:
+      213: 21300018
+    second: landscape_8
+  - first:
+      213: 21300020
+    second: landscape_9
+  - first:
+      213: 21300022
+    second: landscape_10
+  - first:
+      213: 21300024
+    second: landscape_11
+  - first:
+      213: 21300026
+    second: landscape_12
+  - first:
+      213: 21300028
+    second: landscape_13
+  - first:
+      213: 21300030
+    second: landscape_14
+  - first:
+      213: 21300032
+    second: landscape_15
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -52,15 +96,41 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: landscape_0
+    - serializedVersion: 2
+      name: landscape_0
       rect:
         serializedVersion: 2
         x: 54
@@ -68,9 +138,20 @@ TextureImporter:
         width: 122
         height: 133
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_1
       rect:
         serializedVersion: 2
         x: 240
@@ -78,9 +159,20 @@ TextureImporter:
         width: 198
         height: 139
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_2
       rect:
         serializedVersion: 2
         x: 489
@@ -88,9 +180,20 @@ TextureImporter:
         width: 135
         height: 172
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_3
       rect:
         serializedVersion: 2
         x: 695
@@ -98,9 +201,20 @@ TextureImporter:
         width: 135
         height: 173
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_4
       rect:
         serializedVersion: 2
         x: 882
@@ -108,9 +222,20 @@ TextureImporter:
         width: 136
         height: 170
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_5
       rect:
         serializedVersion: 2
         x: 11
@@ -118,9 +243,20 @@ TextureImporter:
         width: 237
         height: 302
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_6
       rect:
         serializedVersion: 2
         x: 287
@@ -128,9 +264,20 @@ TextureImporter:
         width: 242
         height: 338
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_7
       rect:
         serializedVersion: 2
         x: 565
@@ -138,9 +285,20 @@ TextureImporter:
         width: 213
         height: 265
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_8
       rect:
         serializedVersion: 2
         x: 822
@@ -148,9 +306,20 @@ TextureImporter:
         width: 135
         height: 233
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_9
       rect:
         serializedVersion: 2
         x: 985
@@ -158,9 +327,20 @@ TextureImporter:
         width: 152
         height: 106
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_10
       rect:
         serializedVersion: 2
         x: 1009
@@ -168,9 +348,20 @@ TextureImporter:
         width: 91
         height: 89
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_11
       rect:
         serializedVersion: 2
         x: 1180
@@ -178,9 +369,20 @@ TextureImporter:
         width: 41
         height: 34
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_12
       rect:
         serializedVersion: 2
         x: 1174
@@ -188,9 +390,20 @@ TextureImporter:
         width: 40
         height: 33
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_13
       rect:
         serializedVersion: 2
         x: 1180
@@ -198,9 +411,20 @@ TextureImporter:
         width: 41
         height: 34
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_14
       rect:
         serializedVersion: 2
         x: 1115
@@ -208,9 +432,20 @@ TextureImporter:
         width: 135
         height: 85
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: landscape_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_15
       rect:
         serializedVersion: 2
         x: 1235
@@ -218,7 +453,31 @@ TextureImporter:
         width: 169
         height: 124
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
