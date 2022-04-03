@@ -11,7 +11,7 @@ Since the main focus of this assignment was machine learning, we did not spend a
 - The enemy frog occasionally gets trapped in a corner by both snakes.
 - The frog never dies
 
-If you're a student from GAIT 2020, please note that I created this project with Jayden roughly 5 years ago in a much older Unity version. I haven't bothered fixing all the warnings about deprecated method calls and such yet, and I can guarantee that some aspects of the code are not best practice!
+If you're a student from Games and AI Techniques, please note that Jayden and I created this project many years ago in a much older Unity version. I haven't bothered fixing all the warnings about deprecated method calls and such yet, and I can guarantee that some aspects of the code are not best practice!
 
 # Report
 Please refer to the file "Report.pdf" for our write up of the game.
